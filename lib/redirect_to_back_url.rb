@@ -1,5 +1,3 @@
 require "redirect_to_back_url/version"
-
-module RedirectToBackUrl
-  # Your code goes here...
-end
+require "redirect_to_back_url/controller"
+require "redirect_to_back_url/application_helper"
