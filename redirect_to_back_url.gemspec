@@ -7,9 +7,9 @@ Gem::Specification.new do |s|
   s.version     = RedirectToBackUrl::VERSION
   s.authors     = ["razenha"]
   s.email       = ["rubem.azenha@gmail.com"]
-  s.homepage    = ""
+  s.homepage    = "http://github.com/razenha/redirect_to_back_url"
   s.summary     = %q{Redirects to a previously stored url}
-  s.summary     = %q{Redirects to a previously stored url}
+  s.description     = %q{Redirects to a previously stored url}
 
   s.rubyforge_project = "redirect_to_back_url"
 
