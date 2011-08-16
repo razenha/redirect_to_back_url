@@ -1,6 +1,6 @@
 module RedirectToBackUrl
   module Controller
-    def redirect_to_back_url(back_url_key = :back_urk)
+    def redirect_to_back_url(back_url_key = :back_url)
       url = params[back_url_key]
       if url
         redirect_to url
